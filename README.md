@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-I am an MPhil student in Information Systems at the Hong Kong University of Science and Technology. My research interests include Natural language processing (NLP), and particularly passionate about adapting NLP technology in the IS domain. 
+I am an **MPhil student in Information Systems** at the Hong Kong University of Science and Technology. My research interests include **Natural language processing (NLP)**, and particularly passionate about adapting NLP technology in the IS domain. 
 
+📫 How to reach me: ytangch@connect.ust.hk
 <!--
 **yixuantt/yixuantt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
