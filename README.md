@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am an **MPhil student in Information Systems** at the Hong Kong University of Science and Technology. My research interests include **Natural language processing (NLP)**, and particularly passionate about adapting NLP technology in the IS domain. 
+I am an MPhil student in **Information Systems** at The Hong Kong University of Science and Technology, with a research focus on **Natural Language Processing (NLP)**. 
 
 📫 How to reach me: ytangch@connect.ust.hk
 <!--
