@@ -1,6 +1,8 @@
 ## Hi there 👋
-
-I am an MPhil student in **Information Systems** at The Hong Kong University of Science and Technology, with a research focus on **Natural Language Processing (NLP)**. 
+* I'm Yixuan Tang. 
+* 🌱 an MPhil student
+* The Hong Kong University of Science and Technology (HKUST)
+* Information Systems ✖️ Natural Language Processing (NLP) 
 
 📫 How to reach me: ytangch@connect.ust.hk
 <!--
