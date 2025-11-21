@@ -1,6 +1,6 @@
 ## Hi there 👋
 * I'm Yixuan Tang. 
-* 🌱 an MPhil student
+* 🌱 PhD student
 * The Hong Kong University of Science and Technology (HKUST)
 * Information Systems ✖️ Natural Language Processing (NLP) 
 
